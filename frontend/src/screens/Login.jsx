@@ -34,7 +34,7 @@ export default function Login({ onLogin }) {
       <div className="auth-card">
         <div className="brand">
           <div className="brand-mark">&#x20B9;</div>
-          <h1>V V Stores</h1>
+          <h1>V.V Stores</h1>
           <p>Credit Manager</p>
         </div>
 
